@@ -22,7 +22,7 @@
     "react-scripts": "^3.4.1",
     "react-timestamp": "^4.4.0",
     "sanitize-html": "^1.27.2",
-    "stationeers-ic": "github:stationeering/stationeers-ic"
+    "stationeers-ic": "github:theit8514/Stationeering-stationeers-ic#features/hash-preprocessor"
   },
   "scripts": {
     "build-css": "node-sass-chokidar src/ -o src/",
